@@ -1,8 +1,8 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    color: #9B9FA0;
-    background-color: black;
+    color: #071013;
+    background-color: white;
 }
 
 a {
@@ -26,11 +26,11 @@ a {
 }
 
 .secondary_color {
-    color: #9B9FA0;
+    color: #071013;
 }
 
 .email_color {
-    color: #9B9FA0;
+    color: #071013;
 }
 
 .secondary_font {
