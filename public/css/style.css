@@ -41,6 +41,11 @@ a {
     font-family: 'Ubuntu Mono', serif;
 }
 
+#profile_picture  {
+    width: 0%;
+    height: auto;
+    margin-top: 1%;
+}
 
 .about #full_name {
     font-size: x-large;
