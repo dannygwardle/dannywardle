@@ -15,8 +15,9 @@ socials:
 
 interests:
     - Metaphysics
-    - Philosophy of Physics
     - Philosophy of Language
+    - Social Philosophy
+    - Philosophy of Physics
 
 affiliations:
     - affiliation:
