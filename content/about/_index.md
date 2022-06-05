@@ -49,7 +49,7 @@ I am currently a PhD candidate at the Australian Catholic University's [Dianoia 
 
 I am an Ordinary Member of the [Australasian Association of Philosophy Postgraduate Committee](https://aap.org.au/postgraduates). In 2020, I was the Convenor of that committee.
 
-I am interested in analytic metaphysics, broadly speaking. I am particularly interested in topics at the intersection of metaphysics, philosophy of physics, and philosophy of language. I am currently working on preparing some of my MPhil work for publication.
+I am interested in analytic metaphysics, broadly speaking. I am particularly interested in topics at the intersection of metaphysics, philosophy of language, social philosophy, and philosophy of physics.
 
 
 
