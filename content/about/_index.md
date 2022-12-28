@@ -45,11 +45,9 @@ academia:
         other_info: 'Majored in Philosophy and Politics/International Studies.'
 ---
 
-I am currently a PhD candidate at the Australian Catholic University's [Dianoia Institute of Philosophy](https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy) in Melbourne. Previously, I completed a Master of Philosophy degree at the [University of Adelaide](https://arts.adelaide.edu.au/humanities/department-of-philosophy). My MPhil thesis consisted of three papers discussing perdurantist theories of persistence. Before that, I completed a Bachelor of Arts (Advanced) at Adelaide.
+I am currently a PhD candidate at the Australian Catholic University's [Dianoia Institute of Philosophy](https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy) in Melbourne. The aim of my PhD research is to produce a series of papers on social metaphysics. Previously, I completed a Master of Philosophy degree at the [University of Adelaide](https://arts.adelaide.edu.au/humanities/department-of-philosophy). My MPhil thesis consisted of three papers discussing perdurantist theories of persistence. Before that, I completed a Bachelor of Arts (Advanced) at Adelaide.
 
-I am an Ordinary Member of the [Australasian Association of Philosophy Postgraduate Committee](https://aap.org.au/postgraduates). In 2020, I was the Convenor of that committee.
-
-I am interested in analytic metaphysics, broadly speaking. I am particularly interested in topics at the intersection of metaphysics, philosophy of language, social philosophy, and philosophy of physics.
+I have been an Ordinary Member of the [Australasian Association of Philosophy Postgraduate Committee](https://aap.org.au/postgraduates) since 2020. In 2020, I was the Convenor of that committee. I am also an Editor and the Web Developer at [Sagacity](https://sagacitymagazine.com.au), which is an online venue for public philosophy written by postgraduate students. 
 
 
 
