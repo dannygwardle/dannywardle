@@ -23,7 +23,7 @@ affiliations:
     - affiliation:
         title: "PhD Candidate"
         name: "Dianoia Institute of Philosophy - Australian Catholic University"
-        email: "danny.wardle@acu.edu.au"
+        email: "danny.wardle@myacu.edu.au"
 
 academia:
     - course:
