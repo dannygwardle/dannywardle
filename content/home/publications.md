@@ -6,7 +6,7 @@ weight: 1
 content_type: 'publications'
 
 section_settings:
-    show_section: false
+    show_section: true
     title: 'Recent Publications'
     subtitle: 'Custom Subtitle: see my google scholar for the latest list'
 ---
