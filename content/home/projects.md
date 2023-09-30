@@ -7,7 +7,7 @@ content_type: "projects"
 
 section_settings:
     show_section: true
-    title: ''
+    title: 'test'
     subtitle: 'Custom Subtitle: see my github for the complete list'
 ---
 
