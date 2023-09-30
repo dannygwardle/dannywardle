@@ -1,12 +1,10 @@
 ---
-title: "Quisque: Tristique iaculis augue, et ornare nibh pretium in."
+title: "Rpooject tjksdk."
 
 date: "2018-05-18"
 
 links:
-    website: 'https://github.com/hadisinaee/avicenna'
+    website: 'https://dannywardle.org'
     alias: link_name_here
 
 ---
-
-[See the wiki page for tutorial!](https://github.com/hadisinaee/avicenna/wiki)
