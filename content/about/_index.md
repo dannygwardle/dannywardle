@@ -28,9 +28,9 @@ affiliations:
 academia:
     - course:
         degree: "Doctor of Philosophy"
-        institution:  "Dianoia Institute of Philosophy - Australian Catholic University"
+        institution:  "Australian Catholic University"
         start_date: "2021"
-        other_info: 'Supervised by John Hawthorne and Sam Baron.'
+        other_info: 'Supervised by John Hawthorne and Sam Baron from 2021-2024.'
     - course:
         degree: "Master of Philosophy"
         institution: "University of Adelaide"
@@ -45,9 +45,9 @@ academia:
         other_info: 'Majored in Philosophy and Politics/International Studies.'
 ---
 
-I am currently a PhD candidate at the Australian Catholic University's [Dianoia Institute of Philosophy](https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy) in Melbourne. The aim of my PhD research is to produce a series of papers on social metaphysics. Previously, I completed a Master of Philosophy at the [University of Adelaide](https://arts.adelaide.edu.au/humanities/department-of-philosophy). My MPhil thesis consisted of three papers discussing perdurantist theories of persistence. Before that, I completed a Bachelor of Arts (Advanced) at Adelaide.
+I am currently a PhD candidate at the Australian Catholic University in Melbourne. From 2021-2024, I studied at their now disestablished [Dianoia Institute of Philosophy](https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy). The aim of my PhD research is to produce a series of papers on social metaphysics. Previously, I completed a Master of Philosophy at the [University of Adelaide](https://arts.adelaide.edu.au/humanities/department-of-philosophy). My MPhil thesis consisted of three papers discussing perdurantist theories of persistence. Before that, I completed a Bachelor of Arts (Advanced) at Adelaide.
 
-I have been an Ordinary Member of the [Australasian Association of Philosophy Postgraduate Committee](https://aap.org.au/postgraduates) since 2020. In 2020, I was the Convenor of that committee. I am also an Editor and the Web Developer at [Sagacity](https://sagacitymagazine.com.au), which is an online venue for public philosophy written by postgraduate students. 
+I have been an Ordinary Member of the [Australasian Association of Philosophy Postgraduate Committee](https://aap.org.au/postgraduates) since 2020. In 2020, I was the Convenor of that committee. I also perform editing and website management duties for [Sagacity](https://sagacitymagazine.com.au), which is an online venue for public philosophy written by postgraduate students. 
 
 I am also interested in public policy and politics, having written on occasion at my Substack [Plurality of Words](https://plurality.substack.com/) and other outlets like [Jacobin](https://jacobin.com/author/danny-wardle). 
 
